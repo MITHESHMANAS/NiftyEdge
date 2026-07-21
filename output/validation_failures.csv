@@ -1,0 +1,1284 @@
+rule_id,rule_name,severity,table,company_id,year,field,issue
+DQ-07,Year Format,CRITICAL,profitandloss,ABB,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIENSOL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIENT,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIGREEN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIPORTS,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIPORTS,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ADANIPOWER,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,AMBUJACEM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,APOLLOHOSP,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ASIANPAINT,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ATGL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BAJAJ-AUTO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,AXISBANK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BAJAJFINSV,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BAJAJHLDNG,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BAJFINANCE,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BANKBARODA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BHARTIARTL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BEL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BHEL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BOSCHLTD,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BPCL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,BRITANNIA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,CANBK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,CHOLAFIN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,CIPLA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,COALINDIA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,DABUR,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,DIVISLAB,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,DLF,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,DMART,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,DRREDDY,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,EICHERMOT,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,GAIL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,GODREJCP,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,GRASIM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HAL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HAVELLS,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HCLTECH,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HDFCBANK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HDFCLIFE,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HEROMOTOCO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HINDALCO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,HINDUNILVR,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ICICIBANK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ICICIGI,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ICICIPRULI,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,INDUSINDBK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,INFY,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,IOC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,IRCTC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,IRFC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ITC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,JINDALSTEL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,JIOFIN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,JSWENERGY,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,JSWSTEEL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,KOTAKBANK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,LICI,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,LODHA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,LT,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,LTIM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,M&M,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,MARUTI,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,MOTHERSON,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,NAUKRI,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,NESTLEIND,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,NHPC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,NTPC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ONGC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,PFC,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,PIDILITIND,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,PNB,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,POWERGRID,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,RECLTD,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,RELIANCE,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,SBILIFE,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,SBIN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,SHREECEM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,SHRIRAMFIN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,SUNPHARMA,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TATACONSUM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TATAMOTORS,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TATAPOWER,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TATASTEEL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TCS,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TECHM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TITAN,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TORNTPHARM,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TRENT,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,TVSMOTOR,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ULTRACEMCO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,UNIONBANK,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,UNITDSPR,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,VBL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,VEDL,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,WIPRO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ZOMATO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,ZYDUSLIFE,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,profitandloss,INDIGO,,year,Raw year value 'TTM' could not be parsed to YYYY-MM. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2013-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2014-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2015-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2016-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2017-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2018-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2019-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2020-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2021-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2022-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2023-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ULTRACEMCO,2024-03,,company_id 'ULTRACEMCO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2013-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2014-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2015-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2016-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2017-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2018-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2019-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2020-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2021-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2022-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2023-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNIONBANK,2024-03,,company_id 'UNIONBANK' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2013-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2014-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2015-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2016-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2017-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2018-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2019-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2020-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2021-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2022-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2023-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,UNITDSPR,2024-03,,company_id 'UNITDSPR' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2012-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2013-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2014-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2015-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2016-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2017-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2018-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2019-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2020-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2021-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2022-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VBL,2023-12,,company_id 'VBL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2013-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2014-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2015-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2016-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2017-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2018-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2019-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2020-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2021-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2022-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2023-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,VEDL,2024-03,,company_id 'VEDL' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2013-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2014-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2015-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2016-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2017-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2018-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2019-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2020-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2021-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2022-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2023-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,WIPRO,2024-03,,company_id 'WIPRO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2018-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2019-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2020-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2021-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2022-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2023-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZOMATO,2024-03,,company_id 'ZOMATO' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2013-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2014-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2015-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2016-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2017-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2018-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2019-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2020-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2021-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2022-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2023-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,profitandloss,ZYDUSLIFE,2024-03,,company_id 'ZYDUSLIFE' in profitandloss has no matching row in companies. Row rejected.
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2013-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2014-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2015-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2016-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2017-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2018-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2019-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2020-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2021-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2022-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2023-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2024-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2013-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2014-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2015-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2016-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2017-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2018-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2019-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2020-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2021-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2022-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2023-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,profitandloss,ADANIPORTS,2024-03,,"Duplicate (company_id, year) in profitandloss; deduplicated, keeping last occurrence."
+DQ-07,Year Format,CRITICAL,balancesheet,ZYDUSLIFE,,year,Raw year value '2024.5' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,balancesheet,ZOMATO,,year,Raw year value '2024.5' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,balancesheet,WIPRO,,year,Raw year value '2024.5' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,balancesheet,VEDL,,year,Raw year value '2024.5' could not be parsed to YYYY-MM. Row rejected.
+DQ-07,Year Format,CRITICAL,balancesheet,UNITDSPR,,year,Raw year value '2024.5' could not be parsed to YYYY-MM. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2013-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2014-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2015-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2016-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2017-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2018-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2019-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2020-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2021-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2022-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2023-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZYDUSLIFE,2024-03,,company_id 'ZYDUSLIFE' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2018-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2019-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2020-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2021-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2022-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2023-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ZOMATO,2024-03,,company_id 'ZOMATO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2013-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2014-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2015-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2016-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2017-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2018-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2019-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2020-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2021-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2022-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2023-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,WIPRO,2024-03,,company_id 'WIPRO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2013-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2014-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2015-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2016-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2017-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2018-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2019-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2020-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2021-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2022-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2023-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,VEDL,2024-03,,company_id 'VEDL' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2013-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2014-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2015-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2016-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2017-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2018-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2019-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2020-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2021-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2022-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2023-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNITDSPR,2024-03,,company_id 'UNITDSPR' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2013-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2014-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2015-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2016-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2017-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2018-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2019-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2020-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2021-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2022-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2023-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,UNIONBANK,2024-03,,company_id 'UNIONBANK' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2013-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2014-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2015-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2016-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2017-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2018-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2019-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2020-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2021-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2022-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2023-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2024-03,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,balancesheet,ULTRACEMCO,2024-09,,company_id 'ULTRACEMCO' in balancesheet has no matching row in companies. Row rejected.
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,ASIANPAINT,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,PNB,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,POWERGRID,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2013-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2014-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2015-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2016-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2017-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2018-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2019-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2020-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2021-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2022-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2023-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2024-03,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,balancesheet,TECHM,2024-09,,"Duplicate (company_id, year) in balancesheet; deduplicated, keeping last occurrence."
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2018-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2019-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2020-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2021-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2022-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2023-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,AGTL,2024-03,,company_id 'AGTL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2013-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2014-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2015-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2016-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2017-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2018-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2019-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2020-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2021-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2022-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2023-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ULTRACEMCO,2024-03,,company_id 'ULTRACEMCO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2013-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2014-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2015-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2016-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2017-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2018-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2019-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2020-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2021-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2022-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2023-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNIONBANK,2024-03,,company_id 'UNIONBANK' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2013-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2014-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2015-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2016-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2017-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2018-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2019-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2020-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2021-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2022-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2023-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,UNITDSPR,2024-03,,company_id 'UNITDSPR' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2012-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2013-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2014-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2015-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2016-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2017-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2018-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2019-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2020-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2021-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2022-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VBL,2023-12,,company_id 'VBL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2013-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2014-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2015-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2016-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2017-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2018-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2019-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2020-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2021-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2022-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2023-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,VEDL,2024-03,,company_id 'VEDL' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2013-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2014-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2015-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2016-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2017-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2018-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2019-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2020-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2021-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2022-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2023-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,WIPRO,2024-03,,company_id 'WIPRO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZOMATO,2020-03,,company_id 'ZOMATO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZOMATO,2021-03,,company_id 'ZOMATO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZOMATO,2022-03,,company_id 'ZOMATO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZOMATO,2023-03,,company_id 'ZOMATO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZOMATO,2024-03,,company_id 'ZOMATO' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2013-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2014-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2015-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2016-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2017-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2018-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2019-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2020-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2021-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2022-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2023-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,cashflow,ZYDUSLIFE,2024-03,,company_id 'ZYDUSLIFE' in cashflow has no matching row in companies. Row rejected.
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2013-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,ABB,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2013-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2013-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,BAJAJ-AUTO,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2013-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2014-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2015-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2016-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2017-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2018-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2019-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2020-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2021-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2022-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2023-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,cashflow,TCS,2024-03,,"Duplicate (company_id, year) in cashflow; deduplicated, keeping last occurrence."
+DQ-03,FK Integrity,CRITICAL,analysis,WIPRO,,,company_id 'WIPRO' in analysis has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,analysis,WIPRO,,,company_id 'WIPRO' in analysis has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,analysis,WIPRO,,,company_id 'WIPRO' in analysis has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,analysis,WIPRO,,,company_id 'WIPRO' in analysis has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2024,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2023,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2022,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2021,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2020,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2019,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2018,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2017,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2016,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2015,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2014,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2013,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2012,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2011,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2010,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ULTRACEMCO,2009,,company_id 'ULTRACEMCO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2024,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2023,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2022,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2021,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2020,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2019,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2018,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2017,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2016,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2015,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2014,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2013,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2012,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2011,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2010,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNIONBANK,2009,,company_id 'UNIONBANK' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2024,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2023,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2022,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2021,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2020,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2019,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2018,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2017,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2016,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2015,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2014,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2013,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2012,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2011,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2010,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,UNITDSPR,2009,,company_id 'UNITDSPR' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2024,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2023,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2022,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2021,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2020,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2019,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2018,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2017,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2016,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2015,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2014,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2013,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2012,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2011,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2010,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VBL,2009,,company_id 'VBL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2024,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2023,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2022,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2021,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2020,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2019,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2018,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2017,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2016,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2015,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2014,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2013,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2012,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2011,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2010,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,VEDL,2009,,company_id 'VEDL' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2024,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2023,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2022,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2021,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2020,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2019,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2018,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2017,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2016,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2015,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2014,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2013,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2012,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2011,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2010,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,WIPRO,2009,,company_id 'WIPRO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2024,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2023,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2022,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2021,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2020,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2019,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2018,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2017,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2016,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2015,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2014,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2013,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2012,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2011,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2010,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZOMATO,2009,,company_id 'ZOMATO' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2024,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2023,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2022,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2021,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2020,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2019,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2018,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2017,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2016,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2015,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2014,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2013,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2012,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2011,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2010,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,documents,ZYDUSLIFE,2009,,company_id 'ZYDUSLIFE' in documents has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,prosandcons,WIPRO,,,company_id 'WIPRO' in prosandcons has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,prosandcons,WIPRO,,,company_id 'WIPRO' in prosandcons has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2013-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2014-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2015-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2016-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2017-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2018-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2019-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2020-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2021-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2022-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2023-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,ULTRACEMCO,2024-03,,company_id 'ULTRACEMCO' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2013-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2014-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2015-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2016-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2017-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2018-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2019-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2020-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2021-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2022-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2023-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-03,FK Integrity,CRITICAL,financial_ratios,UNIONBANK,2024-03,,company_id 'UNIONBANK' in financial_ratios has no matching row in companies. Row rejected.
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ABB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ADANIPORTS,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,ASIANPAINT,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,BAJAJ-AUTO,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,PNB,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,POWERGRID,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2013-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2014-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2015-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2016-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2017-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2018-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2019-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2020-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2021-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2022-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2023-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-02,Annual PK Uniqueness,CRITICAL,financial_ratios,TECHM,2024-03,,"Duplicate (company_id, year) in financial_ratios; deduplicated, keeping last occurrence."
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ADANIENSOL,2024-03,opm_percentage,Source OPM 30.0% vs computed 34.39% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2013-03,opm_percentage,Source OPM 1353.0% vs computed 30.58% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2014-03,opm_percentage,Source OPM 2307.0% vs computed 31.47% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2015-03,opm_percentage,Source OPM 3097.0% vs computed 31.36% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2016-03,opm_percentage,Source OPM 3466.0% vs computed 32.61% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2017-03,opm_percentage,Source OPM -5715.0% vs computed 53.45% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2018-03,opm_percentage,Source OPM -10277.0% vs computed 63.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2019-03,opm_percentage,Source OPM -5447.0% vs computed 49.39% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2020-03,opm_percentage,Source OPM -9859.0% vs computed 55.98% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2021-03,opm_percentage,Source OPM -2510.0% vs computed 50.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2022-03,opm_percentage,Source OPM 3170.0% vs computed 44.47% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2023-03,opm_percentage,Source OPM 13857.0% vs computed 34.16% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,AXISBANK,2024-03,opm_percentage,Source OPM 11952.0% vs computed 34.69% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2015-03,opm_percentage,Source OPM 1367.0% vs computed 32.49% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2016-03,opm_percentage,Source OPM 1986.0% vs computed 32.25% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2017-03,opm_percentage,Source OPM 2867.0% vs computed 32.60% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2018-03,opm_percentage,Source OPM 3935.0% vs computed 32.28% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2019-03,opm_percentage,Source OPM 6310.0% vs computed 29.50% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2020-03,opm_percentage,Source OPM 7608.0% vs computed 34.73% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2021-03,opm_percentage,Source OPM 6314.0% vs computed 40.64% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2022-03,opm_percentage,Source OPM 9906.0% vs computed 37.55% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2023-03,opm_percentage,Source OPM 16018.0% vs computed 30.65% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BAJFINANCE,2024-03,opm_percentage,Source OPM 19987.0% vs computed 29.29% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2013-03,opm_percentage,Source OPM 1006.0% vs computed 30.05% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2014-03,opm_percentage,Source OPM 809.0% vs computed 29.78% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2015-03,opm_percentage,Source OPM 902.0% vs computed 29.98% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2016-03,opm_percentage,Source OPM -11700.0% vs computed 55.44% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2017-03,opm_percentage,Source OPM -4372.0% vs computed 43.28% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2018-03,opm_percentage,Source OPM -9197.0% vs computed 56.65% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2019-03,opm_percentage,Source OPM -5414.0% vs computed 48.79% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2020-03,opm_percentage,Source OPM -11728.0% vs computed 51.44% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2021-03,opm_percentage,Source OPM -6957.0% vs computed 51.23% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2022-03,opm_percentage,Source OPM -2948.0% vs computed 51.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2023-03,opm_percentage,Source OPM 6329.0% vs computed 40.45% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,BANKBARODA,2024-03,opm_percentage,Source OPM 4102.0% vs computed 37.49% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2013-03,opm_percentage,Source OPM 655.0% vs computed 21.18% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2014-03,opm_percentage,Source OPM -672.0% vs computed 24.35% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2015-03,opm_percentage,Source OPM -621.0% vs computed 23.51% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2016-03,opm_percentage,Source OPM -8008.0% vs computed 40.38% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2017-03,opm_percentage,Source OPM -5775.0% vs computed 37.85% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2018-03,opm_percentage,Source OPM -13350.0% vs computed 61.87% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2019-03,opm_percentage,Source OPM -11590.0% vs computed 56.73% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2020-03,opm_percentage,Source OPM -12867.0% vs computed 53.88% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2021-03,opm_percentage,Source OPM -18367.0% vs computed 61.83% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2022-03,opm_percentage,Source OPM -13657.0% vs computed 58.39% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2023-03,opm_percentage,Source OPM -9877.0% vs computed 49.80% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CANBK,2024-03,opm_percentage,Source OPM -7745.0% vs computed 41.75% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2013-03,opm_percentage,Source OPM 472.0% vs computed 26.77% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2014-03,opm_percentage,Source OPM 578.0% vs computed 28.42% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2015-03,opm_percentage,Source OPM 696.0% vs computed 28.56% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2016-03,opm_percentage,Source OPM 899.0% vs computed 30.04% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2017-03,opm_percentage,Source OPM 1143.0% vs computed 28.16% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2018-03,opm_percentage,Source OPM 1451.0% vs computed 26.10% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2019-03,opm_percentage,Source OPM 1888.0% vs computed 22.96% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2020-03,opm_percentage,Source OPM 1699.0% vs computed 27.79% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2021-03,opm_percentage,Source OPM 2094.0% vs computed 30.40% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2022-03,opm_percentage,Source OPM 2924.0% vs computed 28.83% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2023-03,opm_percentage,Source OPM 3515.0% vs computed 28.10% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CHOLAFIN,2024-03,opm_percentage,Source OPM 4548.0% vs computed 28.10% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2013-03,opm_percentage,Source OPM 2214.0% vs computed 73.26% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2014-03,opm_percentage,Source OPM 2147.0% vs computed 78.90% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2015-03,opm_percentage,Source OPM 2163.0% vs computed 80.94% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2016-03,opm_percentage,Source OPM 2480.0% vs computed 82.02% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2017-03,opm_percentage,Source OPM 2496.0% vs computed 82.66% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2018-03,opm_percentage,Source OPM 2826.0% vs computed 81.35% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2019-03,opm_percentage,Source OPM 3097.0% vs computed 81.07% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2020-03,opm_percentage,Source OPM 3206.0% vs computed 81.29% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2021-03,opm_percentage,Source OPM 4252.0% vs computed 77.80% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2022-03,opm_percentage,Source OPM 4553.0% vs computed 79.08% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2023-03,opm_percentage,Source OPM 5027.0% vs computed 77.91% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,CIPLA,2024-03,opm_percentage,Source OPM 6291.0% vs computed 75.59% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2013-03,opm_percentage,Source OPM 18087.0% vs computed 73.52% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2014-03,opm_percentage,Source OPM 17766.0% vs computed 74.84% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2015-03,opm_percentage,Source OPM 17343.0% vs computed 76.60% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2016-03,opm_percentage,Source OPM 18714.0% vs computed 75.96% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2017-03,opm_percentage,Source OPM 12448.0% vs computed 84.07% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2018-03,opm_percentage,Source OPM 9288.0% vs computed 89.10% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2019-03,opm_percentage,Source OPM 25007.0% vs computed 74.89% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2020-03,opm_percentage,Source OPM 21581.0% vs computed 77.54% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2021-03,opm_percentage,Source OPM 18628.0% vs computed 79.31% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2022-03,opm_percentage,Source OPM 24721.0% vs computed 77.47% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2023-03,opm_percentage,Source OPM 44232.0% vs computed 68.01% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,COALINDIA,2024-03,opm_percentage,Source OPM 47971.0% vs computed 66.29% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2013-03,opm_percentage,Source OPM 3534.0% vs computed 35.22% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2014-03,opm_percentage,Source OPM 5602.0% vs computed 31.74% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2015-03,opm_percentage,Source OPM 7214.0% vs computed 31.90% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2016-03,opm_percentage,Source OPM 9037.0% vs computed 31.75% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2017-03,opm_percentage,Source OPM 11374.0% vs computed 32.56% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2018-03,opm_percentage,Source OPM 13374.0% vs computed 34.63% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2019-03,opm_percentage,Source OPM 16592.0% vs computed 33.15% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2020-03,opm_percentage,Source OPM 14593.0% vs computed 37.20% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2021-03,opm_percentage,Source OPM 16848.0% vs computed 40.81% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2022-03,opm_percentage,Source OPM 20795.0% vs computed 41.61% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2023-03,opm_percentage,Source OPM 29932.0% vs computed 36.92% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCBANK,2024-03,opm_percentage,Source OPM -44685.0% vs computed 61.41% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2013-03,opm_percentage,Source OPM 525.0% vs computed 96.27% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2014-03,opm_percentage,Source OPM 605.0% vs computed 96.48% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2015-03,opm_percentage,Source OPM 874.0% vs computed 96.79% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2016-03,opm_percentage,Source OPM 953.0% vs computed 94.74% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2017-03,opm_percentage,Source OPM 972.0% vs computed 96.83% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2018-03,opm_percentage,Source OPM 1074.0% vs computed 96.67% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2019-03,opm_percentage,Source OPM 1215.0% vs computed 96.87% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2020-03,opm_percentage,Source OPM 1141.0% vs computed 96.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2021-03,opm_percentage,Source OPM 1235.0% vs computed 98.27% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2022-03,opm_percentage,Source OPM 778.0% vs computed 98.84% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2023-03,opm_percentage,Source OPM 80.0% vs computed 99.89% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HDFCLIFE,2024-03,opm_percentage,Source OPM 531.0% vs computed 99.48% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2014-03,opm_percentage,Source OPM 3553.0% vs computed 85.94% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2015-03,opm_percentage,Source OPM 3520.0% vs computed 87.22% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2016-03,opm_percentage,Source OPM 4424.0% vs computed 84.45% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2017-03,opm_percentage,Source OPM 4585.0% vs computed 83.97% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2018-03,opm_percentage,Source OPM 5334.0% vs computed 83.57% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2019-03,opm_percentage,Source OPM 5025.0% vs computed 85.21% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2020-03,opm_percentage,Source OPM 4070.0% vs computed 86.09% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2021-03,opm_percentage,Source OPM 4058.0% vs computed 86.90% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2022-03,opm_percentage,Source OPM 3256.0% vs computed 88.98% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2023-03,opm_percentage,Source OPM 4099.0% vs computed 88.00% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HEROMOTOCO,2024-03,opm_percentage,Source OPM 5235.0% vs computed 86.15% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2013-03,opm_percentage,Source OPM 7699.0% vs computed 90.40% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2014-03,opm_percentage,Source OPM 8024.0% vs computed 90.85% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2015-03,opm_percentage,Source OPM 8844.0% vs computed 91.52% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2016-03,opm_percentage,Source OPM 7778.0% vs computed 92.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2017-03,opm_percentage,Source OPM 12317.0% vs computed 87.71% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2018-03,opm_percentage,Source OPM 13695.0% vs computed 88.11% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2019-03,opm_percentage,Source OPM 15511.0% vs computed 88.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2020-03,opm_percentage,Source OPM 14306.0% vs computed 87.89% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2021-03,opm_percentage,Source OPM 17559.0% vs computed 86.70% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2022-03,opm_percentage,Source OPM 28347.0% vs computed 85.47% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2023-03,opm_percentage,Source OPM 22666.0% vs computed 89.85% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDALCO,2024-03,opm_percentage,Source OPM 23872.0% vs computed 88.95% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2013-03,opm_percentage,Source OPM 4220.0% vs computed 84.37% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2014-03,opm_percentage,Source OPM 4759.0% vs computed 83.72% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2015-03,opm_percentage,Source OPM 5412.0% vs computed 83.07% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2016-03,opm_percentage,Source OPM 5910.0% vs computed 81.64% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2017-03,opm_percentage,Source OPM 6328.0% vs computed 80.92% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2018-03,opm_percentage,Source OPM 7499.0% vs computed 78.90% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2019-03,opm_percentage,Source OPM 8880.0% vs computed 77.41% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2020-03,opm_percentage,Source OPM 9861.0% vs computed 75.21% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2021-03,opm_percentage,Source OPM 11626.0% vs computed 75.28% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2022-03,opm_percentage,Source OPM 12857.0% vs computed 75.49% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2023-03,opm_percentage,Source OPM 14147.0% vs computed 76.65% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,HINDUNILVR,2024-03,opm_percentage,Source OPM 14659.0% vs computed 76.32% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2013-03,opm_percentage,Source OPM -15085.0% vs computed 70.59% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2014-03,opm_percentage,Source OPM -13084.0% vs computed 66.40% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2015-03,opm_percentage,Source OPM -16120.0% vs computed 70.53% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2016-03,opm_percentage,Source OPM -26955.0% vs computed 88.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2017-03,opm_percentage,Source OPM -37737.0% vs computed 104.76% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2018-03,opm_percentage,Source OPM -44906.0% vs computed 117.12% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2019-03,opm_percentage,Source OPM -50971.0% vs computed 116.38% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2020-03,opm_percentage,Source OPM -45190.0% vs computed 100.62% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2021-03,opm_percentage,Source OPM -44805.0% vs computed 102.41% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2022-03,opm_percentage,Source OPM -26558.0% vs computed 84.69% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2023-03,opm_percentage,Source OPM -17341.0% vs computed 72.57% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIBANK,2024-03,opm_percentage,Source OPM -14152.0% vs computed 62.41% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2013-03,opm_percentage,Source OPM -178.0% vs computed 104.46% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2014-03,opm_percentage,Source OPM -225.0% vs computed 105.19% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2015-03,opm_percentage,Source OPM -221.0% vs computed 105.24% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2016-03,opm_percentage,Source OPM 764.0% vs computed 87.34% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2017-03,opm_percentage,Source OPM 919.0% vs computed 87.78% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2018-03,opm_percentage,Source OPM -262.0% vs computed 103.79% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2019-03,opm_percentage,Source OPM 1669.0% vs computed 85.05% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2020-03,opm_percentage,Source OPM 1772.0% vs computed 84.61% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2021-03,opm_percentage,Source OPM 2072.0% vs computed 82.97% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2022-03,opm_percentage,Source OPM 1016.0% vs computed 93.66% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2023-03,opm_percentage,Source OPM 1264.0% vs computed 92.93% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIGI,2024-03,opm_percentage,Source OPM 2577.0% vs computed 87.42% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2013-03,opm_percentage,Source OPM 745.0% vs computed 96.28% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2014-03,opm_percentage,Source OPM 1504.0% vs computed 93.13% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2015-03,opm_percentage,Source OPM 1655.0% vs computed 95.20% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2016-03,opm_percentage,Source OPM 1842.0% vs computed 91.17% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2017-03,opm_percentage,Source OPM 1806.0% vs computed 95.22% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2018-03,opm_percentage,Source OPM 1771.0% vs computed 95.44% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2019-03,opm_percentage,Source OPM 541.0% vs computed 98.70% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2020-03,opm_percentage,Source OPM -319.0% vs computed 101.52% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2021-03,opm_percentage,Source OPM -390.0% vs computed 100.47% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2022-03,opm_percentage,Source OPM -2163.0% vs computed 103.40% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2023-03,opm_percentage,Source OPM -1757.0% vs computed 103.48% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,ICICIPRULI,2024-03,opm_percentage,Source OPM -1829.0% vs computed 102.03% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2013-03,opm_percentage,Source OPM 286.0% vs computed 27.88% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2014-03,opm_percentage,Source OPM 335.0% vs computed 30.95% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2015-03,opm_percentage,Source OPM 288.0% vs computed 32.33% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2016-03,opm_percentage,Source OPM 329.0% vs computed 35.28% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2017-03,opm_percentage,Source OPM 379.0% vs computed 39.46% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2018-03,opm_percentage,Source OPM 942.0% vs computed 37.93% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2019-03,opm_percentage,Source OPM -437.0% vs computed 41.70% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2020-03,opm_percentage,Source OPM -553.0% vs computed 43.81% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2021-03,opm_percentage,Source OPM -2469.0% vs computed 55.16% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2022-03,opm_percentage,Source OPM -839.0% vs computed 51.39% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2023-03,opm_percentage,Source OPM 2067.0% vs computed 42.69% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDUSINDBK,2024-03,opm_percentage,Source OPM 2978.0% vs computed 38.55% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,JIOFIN,2023-03,opm_percentage,Source OPM 88.0% vs computed 86.67% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2013-03,opm_percentage,Source OPM -1789.0% vs computed 60.92% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2014-03,opm_percentage,Source OPM -1379.0% vs computed 58.84% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2015-03,opm_percentage,Source OPM -3366.0% vs computed 72.96% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2016-03,opm_percentage,Source OPM -2263.0% vs computed 56.57% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2017-03,opm_percentage,Source OPM -3965.0% vs computed 66.44% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2018-03,opm_percentage,Source OPM -4141.0% vs computed 66.87% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2019-03,opm_percentage,Source OPM -5114.0% vs computed 66.23% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2020-03,opm_percentage,Source OPM -5005.0% vs computed 67.45% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2021-03,opm_percentage,Source OPM -9958.0% vs computed 90.83% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2022-03,opm_percentage,Source OPM -8512.0% vs computed 90.98% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2023-03,opm_percentage,Source OPM -5746.0% vs computed 79.44% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,KOTAKBANK,2024-03,opm_percentage,Source OPM -13382.0% vs computed 83.67% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,SUNPHARMA,2024-03,opm_percentage,Source OPM 28.0% vs computed 26.84% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2013-03,opm_percentage,Source OPM 855.0% vs computed 90.71% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2014-03,opm_percentage,Source OPM 433.0% vs computed 96.11% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2015-03,opm_percentage,Source OPM 1904.0% vs computed 86.33% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2016-03,opm_percentage,Source OPM 3164.0% vs computed 80.40% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2017-03,opm_percentage,Source OPM 2219.0% vs computed 88.06% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2018-03,opm_percentage,Source OPM 3030.0% vs computed 86.84% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2019-03,opm_percentage,Source OPM -151.0% vs computed 100.53% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2020-03,opm_percentage,Source OPM 4069.0% vs computed 88.62% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2021-03,opm_percentage,Source OPM 2.0% vs computed 99.98% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2022-03,opm_percentage,Source OPM 558.0% vs computed 97.85% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2023-03,opm_percentage,Source OPM 6521.0% vs computed 88.02% differ by >1pp.
+DQ-05,OPM Cross-Check,WARNING,profitandloss,INDIGO,2024-03,opm_percentage,Source OPM 16331.0% vs computed 76.30% differ by >1pp.
+DQ-06,Positive Sales,WARNING,profitandloss,ADANIENSOL,2014-03,sales,sales = 0 (<= 0) for non-bank company. Excluded from growth CAGR.
+DQ-09,Net Cash Check,WARNING,cashflow,TVSMOTOR,2022-03,net_cash_flow,net_cash_flow 532.0 vs CFO+CFI+CFF -128.0 differ by >10 Cr. Recomputed from components.
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIENT,2014-03,tax_percentage,"tax_percentage = -64.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIGREEN,2017-03,tax_percentage,"tax_percentage = -75.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIGREEN,2018-03,tax_percentage,"tax_percentage = -35.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIGREEN,2019-03,tax_percentage,"tax_percentage = -19.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIPOWER,2014-03,tax_percentage,"tax_percentage = -79.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIPOWER,2016-03,tax_percentage,"tax_percentage = -47.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIPOWER,2017-03,tax_percentage,"tax_percentage = -1.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,ADANIPOWER,2023-03,tax_percentage,"tax_percentage = -40.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,AMBUJACEM,2018-12,tax_percentage,"tax_percentage = -2.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,APOLLOHOSP,2018-03,tax_percentage,"tax_percentage = 65.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,AXISBANK,2018-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,AXISBANK,2020-03,tax_percentage,"tax_percentage = 67.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BANKBARODA,2016-03,tax_percentage,"tax_percentage = -19.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BANKBARODA,2018-03,tax_percentage,"tax_percentage = -9.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BANKBARODA,2020-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BANKBARODA,2021-03,tax_percentage,"tax_percentage = 77.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHARTIARTL,2014-03,tax_percentage,"tax_percentage = 62.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHARTIARTL,2019-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHARTIARTL,2020-03,tax_percentage,"tax_percentage = -28.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHARTIARTL,2021-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHEL,2016-03,tax_percentage,"tax_percentage = -39.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHEL,2018-03,tax_percentage,"tax_percentage = 64.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHEL,2020-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHEL,2021-03,tax_percentage,"tax_percentage = -25.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,BHEL,2024-03,tax_percentage,"tax_percentage = -16.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,CANBK,2016-03,tax_percentage,"tax_percentage = -13.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,CANBK,2018-03,tax_percentage,"tax_percentage = -36.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,CANBK,2019-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,DLF,2014-03,tax_percentage,"tax_percentage = -16.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,DLF,2020-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,DRREDDY,2020-03,tax_percentage,"tax_percentage = -7.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,GODREJCP,2019-03,tax_percentage,"tax_percentage = -12.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,GODREJCP,2024-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,GRASIM,2020-03,tax_percentage,"tax_percentage = -1.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,HDFCLIFE,2024-03,tax_percentage,"tax_percentage = -61.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,HINDALCO,2015-03,tax_percentage,"tax_percentage = 75.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,HINDALCO,2016-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,IOC,2020-03,tax_percentage,"tax_percentage = -74.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,IRFC,2013-03,tax_percentage,"tax_percentage = 64.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JINDALSTEL,2015-03,tax_percentage,"tax_percentage = -6.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JINDALSTEL,2016-03,tax_percentage,"tax_percentage = -22.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JINDALSTEL,2017-03,tax_percentage,"tax_percentage = -17.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JINDALSTEL,2018-03,tax_percentage,"tax_percentage = -13.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JINDALSTEL,2019-03,tax_percentage,"tax_percentage = -14.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JSWENERGY,2018-03,tax_percentage,"tax_percentage = 75.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JSWSTEEL,2014-03,tax_percentage,"tax_percentage = 70.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JSWSTEEL,2016-03,tax_percentage,"tax_percentage = -80.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,JSWSTEEL,2020-03,tax_percentage,"tax_percentage = -30.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LICI,2019-03,tax_percentage,"tax_percentage = 68.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LICI,2020-03,tax_percentage,"tax_percentage = 80.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LICI,2021-03,tax_percentage,"tax_percentage = 76.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LICI,2022-03,tax_percentage,"tax_percentage = 66.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LODHA,2021-03,tax_percentage,"tax_percentage = -44.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,LODHA,2023-03,tax_percentage,"tax_percentage = -8.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,M&M,2020-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,MOTHERSON,2020-03,tax_percentage,"tax_percentage = -5.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NAUKRI,2015-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NAUKRI,2017-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NAUKRI,2020-03,tax_percentage,"tax_percentage = 95.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NAUKRI,2023-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NHPC,2020-03,tax_percentage,"tax_percentage = -2.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NHPC,2022-03,tax_percentage,"tax_percentage = -17.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NTPC,2016-03,tax_percentage,"tax_percentage = -2.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,NTPC,2019-03,tax_percentage,"tax_percentage = -25.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,PNB,2016-03,tax_percentage,"tax_percentage = -31.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,PNB,2018-03,tax_percentage,"tax_percentage = -37.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,PNB,2019-03,tax_percentage,"tax_percentage = -35.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,POWERGRID,2019-03,tax_percentage,"tax_percentage = -10.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,SBIN,2017-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,SBIN,2018-03,tax_percentage,"tax_percentage = -66.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,SHREECEM,2015-06,tax_percentage,"tax_percentage = -6.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATACONSUM,2016-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATAMOTORS,2019-03,tax_percentage,"tax_percentage = -8.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATAMOTORS,2024-03,tax_percentage,"tax_percentage = -14.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATAPOWER,2013-03,tax_percentage,"tax_percentage = 92.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATAPOWER,2014-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATAPOWER,2015-03,tax_percentage,"tax_percentage = 72.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2013-03,tax_percentage,"tax_percentage = 78.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2015-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2016-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2017-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2020-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TATASTEEL,2024-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TRENT,2013-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TRENT,2014-03,tax_percentage,"tax_percentage = 99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TRENT,2021-03,tax_percentage,"tax_percentage = -12.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,TRENT,2022-03,tax_percentage,"tax_percentage = 69.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,INDIGO,2019-03,tax_percentage,"tax_percentage = -99.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,INDIGO,2020-03,tax_percentage,"tax_percentage = -10.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-11,Tax Rate Range,WARNING,profitandloss,INDIGO,2024-03,tax_percentage,"tax_percentage = -2.0 outside [0, 60]. May indicate one-off deferred tax reversal."
+DQ-12,Dividend Payout Cap,WARNING,profitandloss,BHARTIARTL,2019-03,dividend_payout,dividend_payout = 244.0% (>200%). Likely data entry error; analyst confirmation required.
+DQ-12,Dividend Payout Cap,WARNING,profitandloss,BRITANNIA,2021-03,dividend_payout,dividend_payout = 204.0% (>200%). Likely data entry error; analyst confirmation required.
+DQ-12,Dividend Payout Cap,WARNING,profitandloss,M&M,2020-03,dividend_payout,dividend_payout = 205.0% (>200%). Likely data entry error; analyst confirmation required.
+DQ-12,Dividend Payout Cap,WARNING,profitandloss,SBIN,2017-03,dividend_payout,dividend_payout = 859.0% (>200%). Likely data entry error; analyst confirmation required.
+DQ-12,Dividend Payout Cap,WARNING,profitandloss,TATAPOWER,2015-03,dividend_payout,dividend_payout = 210.0% (>200%). Likely data entry error; analyst confirmation required.
+DQ-14,EPS Sign Consistency,WARNING,profitandloss,JSWENERGY,2018-03,eps,net_profit = 85 (positive) but eps = 0.0 (<= 0). May indicate adjustments; use net_profit/shares as fallback.
+DQ-14,EPS Sign Consistency,WARNING,profitandloss,TATAPOWER,2013-03,eps,net_profit = 123 (positive) but eps = 0.0 (<= 0). May indicate adjustments; use net_profit/shares as fallback.
+DQ-14,EPS Sign Consistency,WARNING,profitandloss,TATAPOWER,2014-03,eps,net_profit = 12 (positive) but eps = -1.0 (<= 0). May indicate adjustments; use net_profit/shares as fallback.
+DQ-16,Coverage Check,WARNING,multi,ATGL,,,"Company has < 5 years of history (P&L=7, BS=8, CF=0, min=0). Excluded from CAGR (< 3yr)."
+DQ-16,Coverage Check,WARNING,multi,JIOFIN,,,"Company has < 5 years of history (P&L=2, BS=3, CF=2, min=2). Excluded from CAGR (< 3yr)."
+DQ-16,Coverage Check,WARNING,multi,SBIN,,,"Company has < 5 years of history (P&L=12, BS=0, CF=12, min=0). Excluded from CAGR (< 3yr)."

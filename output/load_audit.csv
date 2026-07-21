@@ -1,0 +1,15 @@
+table,rows_in,rows_out,rejected,runtime_s,notes,timestamp
+companies,92,92,0,0.072,,2026-07-21T05:01:02
+profitandloss,1276,1073,203,0.639,,2026-07-21T05:01:02
+balancesheet,1312,1140,172,0.574,,2026-07-21T05:01:02
+cashflow,1187,1056,131,0.328,,2026-07-21T05:01:02
+analysis,20,4,16,0.037,,2026-07-21T05:01:02
+documents,1585,1457,128,0.321,,2026-07-21T05:01:02
+prosandcons,16,14,2,0.023,,2026-07-21T05:01:02
+sectors,92,92,0,0.043,,2026-07-21T05:01:02
+stock_prices,5520,5520,0,1.704,,2026-07-21T05:01:02
+market_cap,552,552,0,0.155,,2026-07-21T05:01:02
+financial_ratios,1184,1041,143,0.546,,2026-07-21T05:01:02
+peer_groups,56,56,0,0.029,,2026-07-21T05:01:02
+_summary_dq15_strict_balance_matches,1140,1140,0,0.0,"Rows where total_assets == total_liabilities exactly (DQ-15, informational).",2026-07-21T05:01:02
+_summary_fk_check,0,0,0,0.0,PRAGMA foreign_key_check violations (should be 0).,2026-07-21T05:01:02

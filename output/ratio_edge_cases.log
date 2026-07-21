@@ -1,0 +1,61 @@
+N100 Ratio Engine — Edge Case Log (Sprint 2, Day 13)
+======================================================================
+
+Cross-check: computed ROCE/ROE (latest available FY per company) vs
+the pre-computed roce_percentage/roe_percentage snapshot fields in
+companies.xlsx. companies.xlsx values are a single current-moment
+snapshot (not tied to a specific fiscal year), so some drift against
+our per-FY computed values is expected; entries below are anomalies
+worth a human look, categorised as:
+  - DATA_SOURCE: companies.xlsx snapshot likely stale/pulled at a
+    different date than our latest loaded FY
+  - VERSION_DIFFERENCE: source value likely computed with a
+    different ROCE/ROE formula (e.g. average vs year-end capital
+    employed, or a different other_income treatment)
+  - FORMULA_DISCREPANCY: magnitude of mismatch suggests the source
+    field itself may be wrong / a data entry error (e.g. sub-1%
+    figures for a company with a clearly profitable, well-
+    capitalised balance sheet)
+
+[ROE]  ADANIENT (2024-03): computed=8.53% vs source=13.64% (diff=5.11pp) -> VERSION_DIFFERENCE
+[ROCE] ADANIGREEN (2024-03): computed=8.94% vs source=96.50% (diff=87.56pp) -> FORMULA_DISCREPANCY
+[ROE]  ADANIPOWER (2024-03): computed=48.28% vs source=57.10% (diff=8.82pp) -> VERSION_DIFFERENCE
+[ROCE] ASIANPAINT (2024-03): computed=35.62% vs source=41.75% (diff=6.13pp) -> VERSION_DIFFERENCE
+[ROCE] BAJAJFINSV (2024-03) [Financials — sector-relative benchmark applies]: computed=11.45% vs source=21.14% (diff=9.69pp) -> VERSION_DIFFERENCE
+[ROE]  BAJAJFINSV (2024-03): computed=25.85% vs source=11.72% (diff=14.13pp) -> VERSION_DIFFERENCE
+[ROCE] BAJFINANCE (2024-03) [Financials — sector-relative benchmark applies]: computed=5.22% vs source=11.90% (diff=6.68pp) -> VERSION_DIFFERENCE
+[ROCE] BEL (2024-03): computed=4155.91% vs source=34.60% (diff=4121.31pp) -> FORMULA_DISCREPANCY
+[ROE]  BEL (2024-03): computed=4744.05% vs source=26.30% (diff=4717.75pp) -> DATA_SOURCE
+[ROCE] BOSCHLTD (2024-03): computed=26.70% vs source=20.60% (diff=6.10pp) -> VERSION_DIFFERENCE
+[ROE]  BPCL (2024-03): computed=35.51% vs source=41.90% (diff=6.39pp) -> VERSION_DIFFERENCE
+[ROCE] CHOLAFIN (2024-03) [Financials — sector-relative benchmark applies]: computed=3.15% vs source=10.40% (diff=7.25pp) -> VERSION_DIFFERENCE
+[ROE]  COALINDIA (2024-03): computed=45.17% vs source=52.00% (diff=6.83pp) -> VERSION_DIFFERENCE
+[ROCE] GODREJCP (2024-03): computed=3.21% vs source=26.49% (diff=23.28pp) -> FORMULA_DISCREPANCY
+[ROE]  GODREJCP (2024-03): computed=-4.45% vs source=6.77% (diff=11.22pp) -> VERSION_DIFFERENCE
+[ROCE] HAL (2024-03): computed=3180.75% vs source=38.90% (diff=3141.85pp) -> FORMULA_DISCREPANCY
+[ROE]  HAL (2024-03): computed=3816.58% vs source=28.90% (diff=3787.68pp) -> DATA_SOURCE
+[ROCE] ICICIPRULI (2024-03) [Financials — sector-relative benchmark applies]: computed=32.76% vs source=8.75% (diff=24.01pp) -> FORMULA_DISCREPANCY
+[ROCE] INDIGO (2024-03): computed=1112.55% vs source=24.50% (diff=1088.05pp) -> FORMULA_DISCREPANCY
+[ROCE] IRCTC (2024-03): computed=46.05% vs source=53.80% (diff=7.75pp) -> VERSION_DIFFERENCE
+[ROE]  IRCTC (2024-03): computed=34.40% vs source=40.40% (diff=6.00pp) -> VERSION_DIFFERENCE
+[ROCE] LICI (2024-03) [Financials — sector-relative benchmark applies]: computed=56.97% vs source=63.79% (diff=6.82pp) -> VERSION_DIFFERENCE
+[ROE]  LICI (2024-03): computed=49.45% vs source=63.61% (diff=14.16pp) -> VERSION_DIFFERENCE
+[ROCE] LT (2024-03): computed=135.95% vs source=17.18% (diff=118.77pp) -> FORMULA_DISCREPANCY
+[ROE]  LT (2024-03): computed=77.67% vs source=10.49% (diff=67.18pp) -> DATA_SOURCE
+[ROCE] LTIM (2024-03): computed=28.39% vs source=34.10% (diff=5.71pp) -> VERSION_DIFFERENCE
+[ROCE] M&M (2024-03): computed=13.42% vs source=26.98% (diff=13.56pp) -> VERSION_DIFFERENCE
+[ROCE] NESTLEIND (2024-03): computed=147.46% vs source=185.43% (diff=37.97pp) -> FORMULA_DISCREPANCY
+[ROE]  NESTLEIND (2024-03): computed=117.75% vs source=135.61% (diff=17.86pp) -> VERSION_DIFFERENCE
+[ROE]  PFC (2024-03): computed=26.16% vs source=19.49% (diff=6.67pp) -> VERSION_DIFFERENCE
+[ROCE] PNB (2024-03) [Financials — sector-relative benchmark applies]: computed=118.22% vs source=1.63% (diff=116.59pp) -> FORMULA_DISCREPANCY
+[ROE]  PNB (2024-03): computed=61.32% vs source=8.70% (diff=52.62pp) -> DATA_SOURCE
+[ROE]  TATAMOTORS (2024-03): computed=37.46% vs source=49.40% (diff=11.94pp) -> VERSION_DIFFERENCE
+[ROE]  TATASTEEL (2024-03): computed=-5.33% vs source=6.55% (diff=11.88pp) -> VERSION_DIFFERENCE
+[ROE]  TCS (2024-03): computed=50.94% vs source=0.52% (diff=50.42pp) -> DATA_SOURCE
+[ROCE] TRENT (2024-03): computed=39.32% vs source=23.80% (diff=15.52pp) -> VERSION_DIFFERENCE
+[ROE]  TRENT (2024-03): computed=36.31% vs source=27.20% (diff=9.11pp) -> VERSION_DIFFERENCE
+
+Total ROCE anomalies: 19
+Total ROE anomalies:  18
+
+Financials-sector companies (D/E flag suppressed, ROCE benchmarked sector-relatively rather than against an absolute threshold): ['AXISBANK', 'BAJAJFINSV', 'BAJAJHLDNG', 'BAJFINANCE', 'BANKBARODA', 'CANBK', 'CHOLAFIN', 'HDFCBANK', 'HDFCLIFE', 'ICICIBANK', 'ICICIGI', 'ICICIPRULI', 'INDUSINDBK', 'IRFC', 'JIOFIN', 'KOTAKBANK', 'LICI', 'PFC', 'PNB', 'RECLTD', 'SBILIFE', 'SBIN', 'SHRIRAMFIN']
